@@ -1,0 +1,13 @@
+{
+  "name": "todo_restapi",
+  "version": "1.0.0",
+  "description": "todo rest apis",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "olaopa victor",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
